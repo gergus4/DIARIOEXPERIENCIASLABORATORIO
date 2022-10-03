@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\gerfu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gerfu\\OneDrive\\Documentos\\UNIVERSIDAD GERARDO\\2022\\SEGUNDO CICLO\\PROGRA\\LABS DE PROGRA\\L5_2_GGFB1096622\\L5_2_GGFB1096622.csproj",
+      "projectName": "L5_2_GGFB1096622",
+      "projectPath": "C:\\Users\\gerfu\\OneDrive\\Documentos\\UNIVERSIDAD GERARDO\\2022\\SEGUNDO CICLO\\PROGRA\\LABS DE PROGRA\\L5_2_GGFB1096622\\L5_2_GGFB1096622.csproj",
+      "packagesPath": "C:\\Users\\gerfu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gerfu\\OneDrive\\Documentos\\UNIVERSIDAD GERARDO\\2022\\SEGUNDO CICLO\\PROGRA\\LABS DE PROGRA\\L5_2_GGFB1096622\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gerfu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
